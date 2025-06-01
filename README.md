@@ -89,7 +89,7 @@ python validator.py
 
 ## File Structure
 ```plaintext
-fastticket/
+ApnaMovieTicketBookingSystem/
 ├── booking_system.py        # Main booking application
 ├── validator.py             # Ticket validation application
 ├── data.json                # Theater and movie data
